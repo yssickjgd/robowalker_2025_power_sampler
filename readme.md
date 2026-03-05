@@ -1,5 +1,9 @@
 # 采样板构成
 
+硬件电路板位于嘉立创的开源平台
+
+https://oshwhub.com/trojan/DC24powermeter
+
 ## 1 下位机
 
 ### 1.1 硬件与引脚
